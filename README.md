@@ -1,4 +1,4 @@
-# trust-distributed-kalman
+# Trust-Based-Distributed-Kalman
 The Matlab code was developed by Dr. Fuxi Wen to reproduce the results of the following paper.
 
 C. Liang, F. Wen, and Z. Wang, "Trust-Based Distributed Kalman Filtering for Target Tracking under Malicious Cyber Attacks", Information Fusion, vol. 46, pp.44-50, Mar. 2019
